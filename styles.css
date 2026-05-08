@@ -297,6 +297,11 @@ a {
 	color: #fff;
 }
 
+.img {
+  width: 90%;
+  height: auto;
+}
+
 @media (max-width: 900px) {
 	.header {
 		grid-template-columns: 1fr;
